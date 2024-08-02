@@ -7,6 +7,7 @@
 3. Salin `.env.example` menjadi `.env` dan sesuaikan konfigurasi database
 4. Jalankan `php artisan migrate`
 5. Jalankan `php artisan serve`
+6. Jalankan `php artisan test` untuk menjalankan file test
 
 ## Penggunaan
 
